@@ -1,6 +1,6 @@
 # Habit Tracker
 
-#### Video Demo: <https://youtu.be/YOUR_VIDEO_ID>
+#### Video Demo: <https://youtu.be/LqNOHDgib_A>
 
 #### Description:
 
